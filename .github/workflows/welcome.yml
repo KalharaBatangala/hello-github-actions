@@ -1,4 +1,4 @@
-name: Post welcome comment
+name: Post welcome comment  # automated welcom comment on pull request
 on:
   pull_request:
     types: [opened]
